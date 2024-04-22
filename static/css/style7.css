@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1, h2{
+    text-align: center;
+    margin-top: 10px;
+}
+
+section{
+    width: 90%;
+    margin: 20px 0;
+}
+
+article{
+    width: 100%;
+    background-color: beige;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 0 auto;
+}
